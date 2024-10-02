@@ -2,7 +2,7 @@
 
 I am a full-stack web developer specialising in Software Quality, Application Security and applied AI automation. 
 
-My core expertise includes and is not limited to:
+My core expertise includes and is not limited to the following:
 * Test automation frameworks. Cypress /  Playwright / JAVA Serenity BDD / JAVA Selenium and Python.
 * Software automated tooling, with Ai.
 * CI/CD design and implementation.
