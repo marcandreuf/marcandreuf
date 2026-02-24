@@ -1,33 +1,24 @@
 ### Hi, I'm Marc Andreu! 👋
 
-I am a full-stack web developer specialising in Software Quality, Application Security and applied AI automation. 
+Full-stack SaaS developer crafting tools, automations, and web solutions with AI acceleration and built-in quality.
 
-My core expertise includes and is not limited to the following:
-* Test automation frameworks. Cypress /  Playwright / JAVA Serenity BDD / JAVA Selenium and Python.
-* Software automated tooling, with Ai.
-* CI/CD design and implementation.
-* Build local development environments with devcontainers.
-* Test Data manipulation and systems integration. 
-* Full-stack web applications. 
+🚀 **Creation mode activated** — I love implementing new ideas, from AI-driven workflows to scalable SaaS prototypes. Quality isn't an afterthought; it's engineered in from the start.
+
+🔧 **What I build**:
+- AI-powered automations & tooling (data integration, test generation helpers)
+- Full-stack web apps (React/Astro frontends, Spring/Node backends, MongoDB/PocketBase)
+- Reproducible dev environments (devcontainers, CI/CD magic)
+- Niche SaaS experiments & indie products
+
+🌟 **Featured Projects**:
+- [Money SaaS for Builders](https://usenemi.com/) — full-stack tool example
+- AI automation suites & devcontainer archetypes (check pinned repos)
+- Blog on practical creation: marcandreuf.com/blog
+
+📫 Open to: Collaborations on indie SaaS, AI tooling partnerships, or interesting full-stack challenges.
+Email: marc@itqualab.com | LinkedIn | Blog
 
 <a href="https://app.daily.dev/marcandreu"><img src="https://api.daily.dev/devcards/v2/uJkRpWEnmSvMYs9k5miVw.png?type=wide&r=ckh" width="800" alt="Marc Andreu's Dev Card"/></a>
-
-### 💬 Ask me about: 
-How can we effectively approach software quality and automate tedious tasks?
-
-#### 🚀 What I Do
-- **AI Software Automated Tooling**: I design and implement tools that automate repetitive tasks and use AI technologies to increase productivity and reduce human error.
-- **Data Integration Systems**: I build and maintain systems that seamlessly integrate and manage data from diverse sources, ensuring data consistency and reliability.
-- **Automation Testing**: I develop comprehensive test suites to ensure the quality and performance of software applications, leveraging frameworks like Serenity BDD, Cypress, Playwright or core unit testing with Junit or Pytest.
-- **Python Development**: I prepare efficient and scalable CLI/CI-CD tooling solutions using Python, focusing on clean code and maintainability with good test coverage.
-- **Full-stack Web Applications**: I create dynamic and responsive web applications with React, delivering intuitive user interfaces and high-quality user experiences. 
-
-#### 🌟 Key Projects
-- **Automated DB migration Tool**: I have implemented a concurrent JAVA-based solution to automate applying SQL migrations to thousands of DBs of a SAAS platform, reducing deployment time by 70%.
-
-- **Data Integration tooling**: I have implemented multiple Python-based programs to process, transform and integrate data across different APIs. 
-
-- **E2E Testing Suite**: Implemented an end-to-end testing suite for a primary web application, significantly improving test coverage and reliability.
 
 #### 💡 My Philosophy
 I believe in continuous learning and improvement, striving to stay at the forefront of technology. I aim to deliver swift, on-time, quality-adjusted requirements solutions that meet user expectations.
