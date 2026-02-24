@@ -11,7 +11,8 @@ Full-stack SaaS developer crafting tools, automations, and web solutions with AI
 - Niche SaaS experiments & indie products
 
 🌟 **Featured Projects**:
-- [Money SaaS for Builders](https://usenemi.com/) — full-stack tool example
+- [Money SaaS for Home Builders](https://usenemi.com/) — full-stack tool example
+- [Daily transportation for clubs](https://pickupee.com/en/)  — full-stack & co-founder
 - AI automation suites & devcontainer archetypes (check pinned repos)
 - Blog on practical creation: marcandreuf.com/blog
 
