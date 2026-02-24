@@ -54,12 +54,9 @@ TODO. Generate more tech stack badges.
   
   
   #### 📫 Let's Connect
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://https://www.linkedin.com/in/marcandreuf/)
+- [GitHub](https://github.com/marcandreuf)
   
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
