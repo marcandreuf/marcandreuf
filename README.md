@@ -1,6 +1,6 @@
 ### Hi, I'm Marc Andreu! 👋
 
-Full-stack SaaS developer crafting tools, automations, and web solutions with AI acceleration and built-in quality.
+I build SaaS solutions, AI automations and integrations · Java · Python · DevOps · 20+ years in software delivery and quality
 
 🚀 **Creation mode activated** — I love implementing new ideas, from AI-driven workflows to scalable SaaS prototypes. Quality isn't an afterthought; it's engineered in from the start.
 
@@ -14,9 +14,12 @@ Full-stack SaaS developer crafting tools, automations, and web solutions with AI
 - [Money SaaS for Home Builders](https://usenemi.com/) — full-stack tool example
 - [Daily transportation for clubs](https://pickupee.com/en/)  — full-stack & co-founder
 - AI automation suites & devcontainer archetypes (check pinned repos below)
+- [memship](https://github.com/marcandreuf/memship): membership platform, Python and FastAPI
 - Blog on practical creation: [marcandreuf.com/blog](https://marcandreuf.com/blog)
 
 📫 **Open to**: Collaborations on indie SaaS, AI tooling partnerships, or interesting full-stack challenges. 
+
+🔗 **Find me at**: [marcandreuf.com](https://marcandreuf.com) · [itqualab.com](https://itqualab.com)
 
 ### Tech Stack
 <div>
@@ -26,6 +29,8 @@ Full-stack SaaS developer crafting tools, automations, and web solutions with AI
   <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Docker Swarm" src="https://img.shields.io/badge/-Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Self-Hosted" src="https://img.shields.io/badge/-Self--Hosted-0B7285?style=flat-square&logo=linux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
