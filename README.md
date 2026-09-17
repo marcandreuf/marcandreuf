@@ -11,11 +11,13 @@ I build SaaS solutions, AI automations and integrations · Java · Python · Dev
 - Niche SaaS experiments & indie products
 
 🌟 **Featured Projects**:
-- [Money SaaS for Home Builders](https://usenemi.com/) — full-stack tool example
-- [Daily transportation for clubs](https://pickupee.com/en/)  — full-stack & co-founder
-- AI automation suites & devcontainer archetypes (check pinned repos below)
-- [memship](https://github.com/marcandreuf/memship): membership platform, Python and FastAPI
+- [memship](https://openmemship.com): open source membership platform, Python and FastAPI. Founder and lead implementer. Source at [github.com/marcandreuf/memship](https://github.com/marcandreuf/memship)
+- [FC Probity](https://fcprobity.com): bilingual site for a youth football academy in Cheongju, South Korea. Astro, GitLab CI/CD, Cloudflare Pages
+- [CIPcity](https://cipcity.com): trilingual community platform (EN, KO, RU) for the international community in Korea. Astro, MDX, GitLab CI/CD
+- [Daily transportation for clubs](https://pickupee.com/en/): full-stack and co-founder
+- AI automation suites and devcontainer archetypes (check pinned repos below)
 - Blog on practical creation: [marcandreuf.com/blog](https://marcandreuf.com/blog)
+- [Money SaaS for Home Builders](https://www.instagram.com/nemi.gmbh/): full-stack tool, project ended
 
 📫 **Open to**: Collaborations on indie SaaS, AI tooling partnerships, or interesting full-stack challenges. 
 
